@@ -8,3 +8,4 @@ This repository contains jupyter notebooks for maps produced for the 2022 [30 Da
     - Map for Day 1 of the 30 day map challenge can be viewed [here](https://www.arcgis.com/apps/instant/basic/index.html?appid=ecf9f92c33f441d8befeb10bb3ee85eb) on ArcGIS Online. 
     - A write up explaining my thought process can be found [here](https://rcm.hashnode.dev/day-1-making-a-map-with-points-or-playing-with-the-what3words-api).
 - Day1-4: contains notebook for maps produced using the [Leafmap](https://leafmap.org/get-started/) python package. 
+- Day 5: contains notebook, data and gif of map produced using [folium](https://python-visualization.github.io/folium/) to create a map showing where global protests occured against the invasion of Ukraine
